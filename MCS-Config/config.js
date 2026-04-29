@@ -18,7 +18,7 @@ module.exports = {
   },
 
   OWNER: {
-    ID: 6954597258,
+    ID: 7244944556,
     NAME: "MOHAMMAD BADOL",
     USERNAME: "B4D9L_007"
   },
