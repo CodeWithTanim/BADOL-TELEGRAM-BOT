@@ -18,9 +18,9 @@ module.exports = {
   },
 
   OWNER: {
-    ID: 7244944556,
+    ID: 6954597258,
     NAME: "MOHAMMAD BADOL",
-    USERNAME: "CodeWithTanim_Support"
+    USERNAME: "B4D9L_007"
   },
 
   // সোশ্যাল মিডিয়া লিংক
