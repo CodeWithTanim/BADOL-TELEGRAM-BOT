@@ -6,13 +6,13 @@
 
 module.exports = {
   // আপনার বটের টোকেন এখানে দিন
-  BOT_TOKEN: "ADD_YOUR_BOT_TOKEN_HERE",
+  BOT_TOKEN: "8345943325:AAEbubNM67Ia0atGefi-RJAhxtLDwiW-b3s",
 
   BOT_SETTINGS: {
     NAME: "𝄞⋆⃝🧚‍𝐌𝐂𝐒-𝐁𝐎𝐓🧚‍⋆⃝𝄞",
     VERSION: "2.5.0-VIP",
     PREFIX: "/", // বটের মেইন প্রিফিক্স
-    ADMINS: ["6954597258"], // এডমিনদের আইডি তালিকা
+    ADMINS: ["7244944556"], // এডমিনদের আইডি তালিকা
     CREDIT: "MOHAMMAD BADOL",
     FOOTER: "© 𝟐𝟎𝟐𝟔 𝐌𝐂𝐒 𝐁𝐎𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓"
   },
