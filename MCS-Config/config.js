@@ -19,7 +19,7 @@ module.exports = {
 
   OWNER: {
     ID: 7244944556,
-    NAME: "CodeWithTanim",
+    NAME: "MOHAMMAD BADOL",
     USERNAME: "CodeWithTanim_Support"
   },
 
